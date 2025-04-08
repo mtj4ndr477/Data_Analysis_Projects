@@ -1,0 +1,86 @@
+O'Customer, Why Art Thou Going?
+
+A Study on Understanding and Predicting Customer Churn
+
+Project Overview
+
+This project aims to analyze customer churn in the telecommunications industry, focusing on how competition 
+and market factors impact customer retention. Using data analytics and machine learning techniques, we explore 
+key indicators influencing churn and build predictive models to assist telecom companies in customer retention strategies.
+
+Team Members
+
+Lim Ern Khee Grace
+Melvin Tjandradjaja
+Priscilla Teo Jia En
+Venecia Ng Shu Eng
+Wong Hiu Man
+
+Background
+
+With the introduction of Mobile Virtual Network Operators (MVNOs) in Singapore, competition in the telecom industry has intensified. 
+Despite a marginal increase in mobile subscribers over recent years, many telecom providers are competing for the same customer base. 
+Understanding churn behavior is crucial for businesses to develop strategies that reduce customer attrition and improve loyalty.
+
+Dataset
+
+We use the Telco Customer Churn dataset, which contains customer demographic details, contract information, and usage data. 
+
+The dataset includes features such as:
+
+CustomerID
+Gender
+Senior Citizen Status
+Contract Type
+Payment Method
+Tenure (Months)
+Monthly Charges
+Total Charges
+Churn (Target Variable: Yes/No)
+
+Project Workflow
+
+1. Data Preprocessing
+  - Load and clean the dataset
+  - Handle missing values and incorrect data formats
+  - Perform feature engineering and transformations
+
+2. Exploratory Data Analysis (EDA)
+  - Visualizing customer attributes and churn distribution
+  - Identifying correlations between churn and key features
+  - Statistical analysis to determine significant predictors
+
+3. Machine Learning Models
+   - Logistic Regression
+   - Decision Tree Classifier
+   - Model evaluation using accuracy, confusion matrix, and error metrics
+
+4. Model Validation & Optimization
+   - Train-Test split methodology
+   - Cross-validation techniques
+   - Hyperparameter tuning for improved performance
+
+Results & Insights
+
+Identified key factors that contribute to customer churn
+Developed predictive models with competitive accuracy
+Provided actionable recommendations for reducing churn
+
+Technologies Used
+
+Python (Pandas, NumPy, Scikit-learn, Statsmodels)
+Data Visualization (Matplotlib, Seaborn)
+Machine Learning Algorithms (Logistic Regression, Decision Trees)
+
+How to Run the Project
+
+1. Run the Jupyter Notebook:
+   jupyter notebook churn_analysis.ipynb
+
+2. Follow the steps outlined in the notebook to analyze the data and train models.
+
+Conclusion
+
+This project provides valuable insights into customer churn patterns and predictive 
+modeling techniques. The findings can be used by telecom companies to improve customer 
+retention and optimize marketing strategies.
