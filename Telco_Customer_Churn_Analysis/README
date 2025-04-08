@@ -69,7 +69,7 @@ Provided actionable recommendations for reducing churn
 Technologies Used
 
 Python (Pandas, NumPy, Scikit-learn, Statsmodels)
-Data Visualization (Matplotlib, Seaborn)
+Data Visualisation (Matplotlib, Seaborn)
 Machine Learning Algorithms (Logistic Regression, Decision Trees)
 
 How to Run the Project
