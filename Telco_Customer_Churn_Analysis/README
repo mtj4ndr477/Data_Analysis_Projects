@@ -4,7 +4,7 @@ A Study on Understanding and Predicting Customer Churn
 
 Project Overview
 
-This project aims to analyze customer churn in the telecommunications industry, focusing on how competition 
+This project aims to analyse customer churn in the telecommunications industry, focusing on how competition 
 and market factors impact customer retention. Using data analytics and machine learning techniques, we explore 
 key indicators influencing churn and build predictive models to assist telecom companies in customer retention strategies.
 
@@ -20,7 +20,7 @@ Background
 
 With the introduction of Mobile Virtual Network Operators (MVNOs) in Singapore, competition in the telecom industry has intensified. 
 Despite a marginal increase in mobile subscribers over recent years, many telecom providers are competing for the same customer base. 
-Understanding churn behavior is crucial for businesses to develop strategies that reduce customer attrition and improve loyalty.
+Understanding churn behaviour is crucial for businesses to develop strategies that reduce customer attrition and improve loyalty.
 
 Dataset
 
@@ -46,7 +46,7 @@ Project Workflow
   - Perform feature engineering and transformations
 
 2. Exploratory Data Analysis (EDA)
-  - Visualizing customer attributes and churn distribution
+  - Visualising customer attributes and churn distribution
   - Identifying correlations between churn and key features
   - Statistical analysis to determine significant predictors
 
@@ -55,10 +55,10 @@ Project Workflow
    - Decision Tree Classifier
    - Model evaluation using accuracy, confusion matrix, and error metrics
 
-4. Model Validation & Optimization
+4. Model Validation & Optimisation
    - Train-Test split methodology
    - Cross-validation techniques
-   - Hyperparameter tuning for improved performance
+   - Hyper-parameter tuning for improved performance
 
 Results & Insights
 
@@ -77,10 +77,10 @@ How to Run the Project
 1. Run the Jupyter Notebook:
    jupyter notebook churn_analysis.ipynb
 
-2. Follow the steps outlined in the notebook to analyze the data and train models.
+2. Follow the steps outlined in the notebook to analyse the data and train models.
 
 Conclusion
 
 This project provides valuable insights into customer churn patterns and predictive 
-modeling techniques. The findings can be used by telecom companies to improve customer 
-retention and optimize marketing strategies.
+modelling techniques. The findings can be used by telecom companies to improve customer 
+retention and optimise marketing strategies.
