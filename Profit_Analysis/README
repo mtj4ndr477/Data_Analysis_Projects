@@ -21,7 +21,7 @@ Descriptive Analysis:
 
 Calculation of maximum, minimum, and total profit across regions and customer segments.
 Trend analysis using monthly profit data.
-Visualizations such as bar charts and tree maps to display profit distribution.
+Visualisations such as bar charts and tree maps to display profit distribution.
 
 Diagnostic Analysis:
 
@@ -33,14 +33,14 @@ Predictive Modeling:
 
 Development of classification models to predict profit gain versus loss.
 Evaluation of model performance using confusion matrices, classification reports, and ROC-AUC curves.
-Model tuning and hyperparameter adjustment for improved performance.
+Model tuning and hyper-parameter adjustment for improved performance.
 
 Tools and Libraries
 
 The project is built using Python and Jupyter Notebook, leveraging several key libraries:
 
 Pandas & NumPy: For data manipulation and numerical operations.
-Matplotlib/Seaborn: For generating visualizations.
+Matplotlib/Seaborn: For generating visualisations.
 Scikit-Learn: For building and evaluating machine learning models.
 Statsmodels: For conducting statistical analyses.
 
@@ -55,6 +55,6 @@ Execute the cells in the notebook sequentially to reproduce the full analysis.
 Conclusion
 
 This portfolio project demonstrates a comprehensive approach to profit analysis by combining 
-descriptive and diagnostic analytics with predictive modeling. The insights drawn from the 
+descriptive and diagnostic analytics with predictive modelling. The insights drawn from the 
 data provide actionable recommendations for improving business performance across various dimensions. 
 Feedback and suggestions for further improvements are welcome.
